@@ -37,7 +37,7 @@ pyplot.show()
 
 
 
-```
+
 ## Output
 ![alt text](image.png)
 </br>
